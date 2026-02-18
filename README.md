@@ -1,5 +1,5 @@
 # Tr-AMR
-This repository contains the data and Python scripts related to the manuscript titled "Tr-AMR: A Transformer-Based Automatic Modulation Recognition Model with Powerful Temporal Information Extraction Capability". It provides the necessary data sources for model training and evaluation, along with Python scripts that are used for data preprocessing, model implementation and training procedures.
+This repository contains the data and Python scripts related to the manuscript titled "Tr-AMR: A Transformer-Based Automatic Modulation Recognition Model with Powerful Temporal Information Extraction Capability". It provides the necessary data sources for model training and evaluation, along with Python scripts that are used for data preprocessing, model implementation and training procedures. The published article is freely available via the link.
 ## Requirements
 * Python 3.8+
 * hdf5 1.14+
